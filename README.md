@@ -10,6 +10,7 @@
 ![image](https://user-images.githubusercontent.com/80267272/163673890-005d4ced-4658-41e9-a1c1-044af2c26363.png)
 ![image](https://user-images.githubusercontent.com/80267272/163673910-4741c825-2bef-456b-81cf-fb6e3db58d2d.png)
 ![image](https://user-images.githubusercontent.com/80267272/163673920-21528302-1715-4a8a-aac6-f02d56888915.png)
+
 The quantity you want to buy will be subtracted from the stock in database
 ![image](https://user-images.githubusercontent.com/80267272/163673950-32d5d224-d5ca-41a2-9a22-ea5d28e3b2d1.png)
 Search Any Product

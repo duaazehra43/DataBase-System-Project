@@ -13,25 +13,32 @@
 
 The quantity you want to buy will be subtracted from the stock in database
 ![image](https://user-images.githubusercontent.com/80267272/163673950-32d5d224-d5ca-41a2-9a22-ea5d28e3b2d1.png)
+
 Search Any Product
 ![image](https://user-images.githubusercontent.com/80267272/163673983-62393de9-3e17-4632-ab7f-ebeaee99917f.png)
 ![image](https://user-images.githubusercontent.com/80267272/163673991-9b6fc124-32f9-4f3e-b881-b0ab479a1813.png)
+
 Give Feedback
 ![image](https://user-images.githubusercontent.com/80267272/163674028-aed65c8d-07e7-4e7d-afff-11d3ec2080de.png)
 ![image](https://user-images.githubusercontent.com/80267272/163674041-2859e7db-d6ae-444d-b663-467c6a197481.png)
 ![image](https://user-images.githubusercontent.com/80267272/163674059-cbfb6b20-3291-4d89-bc74-dd719bf2dbab.png)
+
 ----Admin Panel---
 ![image](https://user-images.githubusercontent.com/80267272/163674091-eef932ef-e777-4adf-bdd8-01d86fba72b5.png)
 ![image](https://user-images.githubusercontent.com/80267272/163674104-89d99f38-5eeb-42f8-aea7-69f43185f1a2.png)
+
 Add New Product
 ![image](https://user-images.githubusercontent.com/80267272/163674216-248cfa23-6e3c-4b32-87cd-bd0298a1abb0.png)
 ![image](https://user-images.githubusercontent.com/80267272/163674223-6ee22d8e-e95c-4785-a161-399608828978.png)
+
 View Products
 ![image](https://user-images.githubusercontent.com/80267272/163674248-b632fd56-67e2-4ba2-8b04-f6f0b834d33a.png)
+
 Remove Product
 ![image](https://user-images.githubusercontent.com/80267272/163674270-8619a47f-7418-4a24-a389-eb5c275cfe85.png)
 ![image](https://user-images.githubusercontent.com/80267272/163674279-c7e39c32-2307-48df-8275-ba23b812f7a8.png)
 ![image](https://user-images.githubusercontent.com/80267272/163674297-28069703-a299-4b00-8427-3593fad02b6f.png)
+
 Update Product
 ![image](https://user-images.githubusercontent.com/80267272/163674325-542f8544-6de9-4ca7-b8d7-d673117d1cb4.png)
 ![image](https://user-images.githubusercontent.com/80267272/163674349-a78f1385-54d9-42eb-80c1-c05f4968390f.png)

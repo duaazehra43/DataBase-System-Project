@@ -32,8 +32,8 @@ Give Feedback
 
 
 Add New Product
-![image](https://user-images.githubusercontent.com/80267272/163674216-248cfa23-6e3c-4b32-87cd-bd0298a1abb0.png)
-![image](https://user-images.githubusercontent.com/80267272/163674223-6ee22d8e-e95c-4785-a161-399608828978.png)
+![image](https://user-images.githubusercontent.com/80267272/163730485-52b188e8-6f3f-4521-87cb-e4d53e5dcaaf.png)
+
 
 
 View Products

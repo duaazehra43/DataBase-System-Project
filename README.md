@@ -47,9 +47,9 @@ Remove Product
 
 
 Update Product
-![image](https://user-images.githubusercontent.com/80267272/163674325-542f8544-6de9-4ca7-b8d7-d673117d1cb4.png)
-![image](https://user-images.githubusercontent.com/80267272/163674349-a78f1385-54d9-42eb-80c1-c05f4968390f.png)
-![image](https://user-images.githubusercontent.com/80267272/163674362-dae45997-6cad-42b8-96d3-61768704548a.png)
+![image](https://user-images.githubusercontent.com/80267272/163730417-aa693f56-5d52-40da-809d-ba7bc57a22ad.png)
+![image](https://user-images.githubusercontent.com/80267272/163730428-b7e6ba45-5759-4ef7-85e3-f8dc283edcb1.png)
+
 
 
 Thankyou.

@@ -33,6 +33,7 @@ Give Feedback
 
 Add New Product
 ![image](https://user-images.githubusercontent.com/80267272/163730485-52b188e8-6f3f-4521-87cb-e4d53e5dcaaf.png)
+![image](https://user-images.githubusercontent.com/80267272/163730562-7838d257-cc86-479a-afb8-910ef3f4aa19.png)
 
 
 
